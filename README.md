@@ -30,7 +30,7 @@
 - role based access
   - e.g. Product manager cannot access orders
 - Add/edit/delete products
-- View/change progress of order
+- View/change progress of order with notification to specific buyer
 - View sales summary (not implemented)
 - Logs (add/edit/delete products)
 - Accounts (for admin side only)
