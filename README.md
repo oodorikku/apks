@@ -1,3 +1,5 @@
+> Both apps have incomplete UI, sole purpose of these projects is to learn about firebase and APIs
+
 ### Buyer side
 - Firebase auth
   - email verification
