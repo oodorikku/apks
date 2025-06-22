@@ -1,4 +1,4 @@
-> Both apps have incomplete UI, sole purpose of these projects is to learn about firebase and APIs
+> Both apps have incomplete UI, sole purpose of these projects is to learn about firebase, notifications, REST APIs and payments.
 
 ### Buyer side
 - Firebase auth
