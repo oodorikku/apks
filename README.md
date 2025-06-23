@@ -12,7 +12,7 @@
   - edit quantity / delete
   - checkout
   - payment with paymongo (needs to add more options such as paypal)
-      - firebase notification when payment is successful
+      - firebase notification when payment is successful (only works if Replit server is running)
       - moved to reserved orders if payment failed
 - user account
   - change name, password, phone
