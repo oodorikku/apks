@@ -2,6 +2,10 @@
 
 [Figma file](https://www.figma.com/design/cJLWiTPuxWvsEVm9xWv7Gg/eCommerce-app?node-id=0-1&t=GjT2DXusLCNEw6I0-1)
 
+Admin side account for testing: 
+Email: audric_ang@dlsu.edu.ph
+Password: 123456
+
 ### Buyer side
 - Firebase auth
   - email verification
