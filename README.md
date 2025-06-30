@@ -42,3 +42,15 @@ Password: 123456
 - Accounts (for admin side only)
 - Send notification (implement sending to specific person)
 - Add/delete news banner (fix size ratio)
+
+### Recipe app
+> This is a flutter remake of my very first app made with Java
+- Search function with some filters (can only search what you can cook with your chosen ingredients, not the direct recipe name)
+  - fetch data from Spoonacular API
+- Add and store ingredients to pantry
+- Save recipe in pdf format
+- Share recipe link
+- Download a recipe (local only, sqlite storage)
+  - Filter alphabetically or by date added
+- Create a meal plan based on diet and total calorie
+  - ~~save meal plan on calendar type~~
